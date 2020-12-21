@@ -9,5 +9,5 @@ Le but est de créer l'application suivante :
 *Git*  : 
 - Savoir sur quel branche je suis : `git branche`
 - Connaitre le statut : `Git status`
--- All information is here about GIT `https://www.atlassian.com/fr/git/tutorials/learn-git-with-bitbucket-cloud`
+All information is here about GIT `https://www.atlassian.com/fr/git/tutorials/learn-git-with-bitbucket-cloud`
 
