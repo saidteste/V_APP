@@ -6,7 +6,7 @@ Le but est de créer l'application suivante :
 - Creation des Graphes avec Python 3.7
 - Affichage sur un Dashboard
 
-##Git : 
+#Git# : 
 - Savoir sur quel branche je suis : `git branche`
 - Connaitre le statut : `Git status`
 - 
